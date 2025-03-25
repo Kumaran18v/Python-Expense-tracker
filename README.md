@@ -91,6 +91,7 @@ Add graphical user interface (GUI) using Tkinter or PyQt.
 Implement monthly filters and advanced reporting.
 
 Add charts to visualize spending trends.
-License
+
+License:
 
 This project is licensed under the MIT License.
